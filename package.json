@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tesfumfa/ass_cha_10/issues"
   },
-  "homepage": "https://github.com/tesfumfa/ass_cha_10#readme"
+  "homepage": "https://github.com/tesfumfa/ass_cha_10#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
