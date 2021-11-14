@@ -25,6 +25,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 <h2>Mock-Up</h2>
 <p>The following animation shows the application being used from the command line:</p>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lVLfm2_c4b4/0.jpg)](https://www.youtube.com/watch?v=lVLfm2_c4b4)
+
+video: https://www.youtube.com/watch?v=lVLfm2_c4b4
 
 
