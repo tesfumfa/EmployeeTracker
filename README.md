@@ -26,3 +26,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 <p>The following animation shows the application being used from the command line:</p>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lVLfm2_c4b4/0.jpg)](https://www.youtube.com/watch?v=lVLfm2_c4b4)
+
+[![SC2 Video](https://img.youtube.com/vi/lVLfm2_c4b4/0.jpg)](http://www.youtube.com/watch?v=lVLfm2_c4b4)
