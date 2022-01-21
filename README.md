@@ -1,4 +1,4 @@
-# ass_cha_10
+
 <h1> SQL Challenge: Employee Tracker </h1>
 <h2>User Story</h2>
 <p>AS A business owner
