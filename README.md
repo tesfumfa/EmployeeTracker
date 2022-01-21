@@ -24,7 +24,7 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database </p>
 <h2>Mock-Up</h2>
 <p>The following animation shows the application being used from the command line:</p>
-code Repo: https://github.com/tesfumfa/ass_cha_10
+code Repo: https://github.com/tesfumfa/EmployeeTracker
 
 video: https://www.youtube.com/watch?v=lVLfm2_c4b4
 
