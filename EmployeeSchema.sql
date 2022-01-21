@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS employeetracker_db;
-CREATE DATABASE employeetracker_db;
-USE employeetracker_db;
+DROP DATABASE IF EXISTS employee_DB;
+CREATE DATABASE employee_DB;
+USE employee_DB;
 
 DROP TABLE IF EXISTS department;
 DROP TABLE IF EXISTS roles;
